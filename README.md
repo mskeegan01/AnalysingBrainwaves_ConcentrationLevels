@@ -10,5 +10,4 @@ Date: 28.11.2019
 <br>
 Author: Martin Straußberger
 
-The Jupyter Notebook is self-explaining. To render the both provdided pictures please download all files. The pictures explain the Setup from the Muse Headbeand
-and a short explaination of the Brainwave-Types.
+The Jupyter Notebook is self-explaining. To render both provdided pictures, please download all files. The pictures explain the Setup from the Muse Headbeand as well as a short explaination of the Brainwave-Types.
