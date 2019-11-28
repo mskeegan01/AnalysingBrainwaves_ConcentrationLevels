@@ -1,5 +1,7 @@
 # SE25_DataScience_Notebook
-In this repository I will share my approach for the Data Science Modul 25 of the Code University. Date: 28.11.2019 | After the review this repository will be set to private
+
+**Code University**
+In this repository I will share my approach for the **Data Science Module 25. Date: 28.11.2019**. After the review this repository will be set to private
 
 
 The repository surves as the handed in version for the Module Data Science_25.
