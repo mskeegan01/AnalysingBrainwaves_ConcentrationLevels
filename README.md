@@ -7,6 +7,7 @@ In this repository I will share my approach for the **Data Science Module 25. Da
 
 The repository surves as the handed in version for the Module Data Science_25.
 Date: 28.11.2019
+<br>
 Author: Martin Straußberger
 
 The Jupyter Notebook is self-explaining. To render the both provdided pictures please download all files. The pictures explain the Setup from the Muse Headbeand
