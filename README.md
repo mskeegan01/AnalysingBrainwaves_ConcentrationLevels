@@ -2,7 +2,7 @@
 
 **Code University**
 
-In this repository I will share my approach for the **Data Science Module 25. Date: 28.11.2019**. After the review this repository will be set to private
+In this repository I am shareing my approach of measuring the level of concentration between to probands during the same task, under the same conditions and without knowing from each other.
 
 
 The repository surves as the handed in version for the Module Data Science_25.
