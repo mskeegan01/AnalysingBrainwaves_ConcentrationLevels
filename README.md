@@ -2,7 +2,7 @@
 
 **Code University**
 
-In this repository I am shareing my approach of measuring the level of concentration between to probands during the same task, under the same conditions and without knowing from each other.
+In this repository I am sharing my approach of measuring the level of concentration between to probands during the same task, under the same conditions and without knowing from each other.
 
 
 The repository surves as the handed in version for the Module Data Science_25.
