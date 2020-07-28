@@ -5,7 +5,7 @@
 In this repository I am sharing my approach of measuring the level of concentration between to probands during the same task, under the same conditions and without knowing from each other.
 
 
-The repository surves as the handed in version for the Module Data Science_25.
+The repository surves as a small scale approach.
 Date: 28.11.2019
 <br>
 Author: Martin Straußberger
