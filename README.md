@@ -1,4 +1,4 @@
-# SE25_DataScience_Notebook
+# DataScience_Notebook - EEG Measurement to determine the differences of Concentration-Levels of the Probands
 
 **Code University**
 
